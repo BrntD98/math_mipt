@@ -28,7 +28,7 @@ private:
 	std::vector<elements<T>> M;
 public:
 	matrix3d(const std::vector<elements<T>> &v){
-	this->M=v;
+	M=v;
 
 	}
 
